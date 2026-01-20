@@ -3,9 +3,6 @@
     <Platform Name="Any CPU" />
     <Platform Name="x64" />
   </Configurations>
-  <Project Path="../RConnectorSetup/RConnectorSetup/RConnectorSetup.csproj" Id="ab6f9448-39ee-42d0-8394-cfe404d91093">
-    <Platform Solution="*|x64" Project="x64" />
-  </Project>
   <Project Path="RStepconverter/RStepconverter.csproj" Id="ac602886-ae3c-4c5a-b5c0-7b034228b7ed">
     <Platform Solution="*|x64" Project="x64" />
   </Project>
